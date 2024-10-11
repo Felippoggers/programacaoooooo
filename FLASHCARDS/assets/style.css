@@ -1,10 +1,10 @@
   body {
-    background-color: aliceblue;
-    font-family: Franklin Gothic Medium;
+    background-color: rgb(63, 62, 85);
+    font-family: apple-system;
   }
 
   footer {
-    background-color: #d6ba98;
+    background-color: #1b1b1b;
     color: white;
     position: fixed;
     bottom: 0;
